@@ -1,6 +1,6 @@
 # Renale Website
 
-Website link: [Renale](http://clinicarenale.netlify.net)
+Website link: [Renale](http://clinicarenale.netlify.app)
 
 Website developed by [Jonas Rocha](https://github.com/jonasra4) (*jonasra4@gmail.com*) and [_Oziel Alves_](https://github.com/ozielalves) (*ozielalves@ufrn.edu.br*), 2018.2
 
